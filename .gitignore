@@ -1,0 +1,4 @@
+.venv
+const.py
+/__pycache__
+.env
